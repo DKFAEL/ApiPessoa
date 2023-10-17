@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para facilitar a execução de testes na API do "PessoaAPI", você pode importar a coleção de testes no Postman. Utilize o seguinte link para importar a coleção:
 
-[Link para Importar Coleção no Postman](https://api.postman.com/collections/24163924-9ed814b3-2c40-436b-a669-9e5b427e146f?access_key=PMAT-01GXBGYKA6ZKMF5YHTFN2VD19B)
+[Link para Importar Coleção no Postman](https://api.postman.com/collections/24163924-9ed814b3-2c40-436b-a669-9e5b427e146f?access_key=PMAT-01HCXNKX9TPGE5FXCQQN2S8ECC)
 
 A coleção contém diversos exemplos de requisições para as funcionalidades da API, facilitando assim os testes e a compreensão do funcionamento do projeto.
 
